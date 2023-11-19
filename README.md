@@ -74,19 +74,19 @@ To run the project, execute the following command:
 To run tests, run the following command:
 
 
-- To Test CSS linter errors 
+- To test CSS linter errors 
 ```
 npx stylelint "**/*.{css,scss}
 ```
 
-- To Test jsx linter errors  
+- To test jsx linter errors  
 ```
 npx eslint "**/*.{js,jsx}
 ```
 
-- To Run Test files 
+- To run test files 
 ```
-npx jest
+npx test
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
